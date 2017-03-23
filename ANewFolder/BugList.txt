@@ -1,3 +1,4 @@
 Bug FIFO.
 I don't know what that meant!
-
+Trying a 'commit' with no message.
+Trying again after changing core.editor to 'vim'
