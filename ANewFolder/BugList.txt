@@ -2,3 +2,4 @@ Bug FIFO.
 I don't know what that meant!
 Trying a 'commit' with no message.
 Trying again after changing core.editor to 'vim'
+That worked.  Now to do a commit with the '-a' option, skipping the 'add'.
